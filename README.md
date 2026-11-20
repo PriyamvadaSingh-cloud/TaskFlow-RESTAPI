@@ -61,8 +61,9 @@ API/
 ### 1. Clone the repository
 
  bash
-git clone YOUR_GITHUB_REPOSITORY_URL
- cd API
+git clone https://github.com/PriyamvadaSingh-cloud/TaskFlow-RESTAPI.git
+cd TaskFlow-RESTAPI
+ 
 
 
 ### 2. Install dependencies
